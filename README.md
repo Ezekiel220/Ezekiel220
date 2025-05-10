@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Ezekiel
+- 👋 Hi, I’m Ishimiro
 - 👀 I’m interested in you
 - 🌱 I’m currently learning you
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me is to you
-- 😄 Pronouns: he
+- 😄 Pronouns: He
 - ⚡ Fun fact: I am you <3
 
 <!---
